@@ -12,3 +12,4 @@ if __name__ == "__main__":
 
     SI = Simple_interest(P, R, T)
     print("Simple Interest =", SI)
+    print(sys.argv[0])
