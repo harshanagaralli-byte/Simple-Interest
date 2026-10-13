@@ -1,4 +1,4 @@
-from SI import Simple_interest
+from simpleintrest import Simple_interest
 
 
 def test_positive():
